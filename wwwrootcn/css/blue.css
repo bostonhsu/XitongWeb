@@ -320,6 +320,10 @@ nav{margin:0;background:none;}.menu li{display:block;margin:0;}.menu li a{backgr
 	padding: 0;
 	position: relative;
 }
+.span1_of_3_custom{
+	padding: 10;
+	position: relative;
+}
 .span1_of_3 h4{
 	font-size: 24px;
 	color: #7F8C8C;
@@ -631,6 +635,12 @@ h3.style{
 	font-size: 14px;
 	color: #7F8C8C;
 	line-height: 1.5em;
+}
+.para_custom{
+	font-size: 14px;
+	color: #7F8C8C;
+	line-height: 1.5em;
+	margin: 10px;
 }
 .about p{
 	margin-bottom: 4%;

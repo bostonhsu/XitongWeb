@@ -92,6 +92,7 @@
 
 #fwslider .title {  /* Slider Title Style */
 	text-align: center;
+	color: #6758E8;
 	width: 60%;
 	margin: 0 auto;
 	text-transform: uppercase;
@@ -104,6 +105,7 @@
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	-o-border-radius: 4px;
+	background: rgba(0, 0, 0, 0.26);
 }
 
 #fwslider .description { /* Slider Description Style */

@@ -18,10 +18,13 @@ body {
 }
 .header{
 	padding: 4% 0;
+	height: 49px;
 }
 .logo{
-	margin-top: 10px;
+	margin-top: 0px;
 	float: left;
+	width: 350px;
+	height: 49px;
 }
 /* start h_menu */
 .h_menu{
